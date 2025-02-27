@@ -1,0 +1,5 @@
+Question 1:
+le fichier ne peux pas être compilé car nous esseyons de créer un objet de type box sans class.
+
+Question 3:
+On doit faire un .gitiniore pour le versionnage 
